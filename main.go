@@ -19,11 +19,11 @@ type Repository struct {
 	Name           string    `json:"name"`
 	Description    string    `json:"description"`
 	URL            string    `json:"url"`
-	ForkCount      int       `json:"forkCount"`
-	StargazerCount int       `json:"stargazerCount"`
+	ForkCount      int       `json:"fork_count"`
+	StargazerCount int       `json:"stargazer_count"`
 	Language       string    `json:"language"`
-	UpdatedAt      time.Time `json:"updatedAt"`
-	CreatedAt      time.Time `json:"createdAt"`
+	UpdatedAt      time.Time `json:"updated_at"`
+	CreatedAt      time.Time `json:"created_at"`
 }
 
 func main() {
