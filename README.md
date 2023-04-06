@@ -1,6 +1,6 @@
 # Pinned REST API Service
 
-This is a simple REST API service that serves pinned repositories for users on GitHub. The service is built using the Go and utilizes the GitHub GraphQL API to retrieve pinned repositories for a given user. It useful for serving pinned repositories on a personal website or for organizations that want to display pinned repositories on their website.
+This is a simple REST API service that serves pinned repositories for users and organizations on GitHub. The service is built using the Go and utilizes the GitHub GraphQL API to retrieve pinned repositories for a given user. It useful for showing pinned repositories on your website or blog.
 
 ## Usage
 
