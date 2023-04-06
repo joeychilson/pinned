@@ -33,11 +33,11 @@ This will return a JSON response containing the pinned repositories for the spec
     "name": "vscode",
     "description": "Visual Studio Code",
     "url": "https://github.com/microsoft/vscode",
-    "forkCount": 25260,
-    "stargazerCount": 144592,
+    "fork_count": 25261,
+    "stargazer_count": 144595,
     "language": "TypeScript",
-    "updatedAt": "2023-04-06T05:27:36Z",
-    "createdAt": "2015-09-03T20:23:38Z"
+    "updated_at": "2023-04-06T06:47:49Z",
+    "created_at": "2015-09-03T20:23:38Z"
   }
 ]
 ```
